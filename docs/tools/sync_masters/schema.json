@@ -1,0 +1,7 @@
+{
+  "tool": "sync_masters",
+  "type": "object",
+  "version": "1.0.0",
+  "date": "2026-08-28",
+  "strict": true
+}
