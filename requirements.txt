@@ -1,0 +1,5 @@
+# Pinned to the 1.x line for the classic FastMCP API
+mcp<2
+requests
+reportlab
+num2words
