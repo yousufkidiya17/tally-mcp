@@ -1,0 +1,7 @@
+{
+  "tool": "create_expense_income_ledger",
+  "type": "object",
+  "version": "1.2.0",
+  "date": "2026-08-30",
+  "strict": true
+}
