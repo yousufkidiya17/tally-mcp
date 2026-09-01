@@ -1,0 +1,7 @@
+{
+  "tool": "list_ledgers",
+  "type": "object",
+  "version": "1.4.0",
+  "date": "2026-09-01",
+  "strict": true
+}
