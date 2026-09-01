@@ -1,0 +1,7 @@
+{
+  "tool": "delete_vouchertype",
+  "type": "object",
+  "version": "1.4.0",
+  "date": "2026-09-01",
+  "strict": true
+}
