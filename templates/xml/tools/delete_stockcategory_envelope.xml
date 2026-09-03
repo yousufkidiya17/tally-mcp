@@ -1,0 +1,13 @@
+<ENVELOPE>
+  <HEADER>
+    <TALLYREQUEST>Export Data</TALLYREQUEST>
+  </HEADER>
+  <BODY>
+    <DESC>
+      <STATICVARIABLES>
+        <SVTOOLNAME>delete_stockcategory</SVTOOLNAME>
+        <SVREVISION>7</SVREVISION>
+      </STATICVARIABLES>
+    </DESC>
+  </BODY>
+</ENVELOPE>
