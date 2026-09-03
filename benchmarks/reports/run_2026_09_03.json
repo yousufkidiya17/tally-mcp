@@ -1,0 +1,7 @@
+{
+  "date": "2026-09-03",
+  "p50_latency_ms": 1.82,
+  "p95_latency_ms": 4.15,
+  "p99_latency_ms": 8.70,
+  "throughput_rps": 1250
+}
