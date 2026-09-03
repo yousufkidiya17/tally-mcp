@@ -1,0 +1,7 @@
+{
+  "tool": "alter_stockgroup",
+  "type": "object",
+  "version": "1.6.0",
+  "date": "2026-09-03",
+  "strict": true
+}
