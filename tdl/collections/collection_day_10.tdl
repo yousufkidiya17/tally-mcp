@@ -1,0 +1,4 @@
+[Collection: Coll_collection_day_10]
+Type: Ledger
+Fetch: Name, Parent, ClosingBalance
+Filter: IsActiveLedger
