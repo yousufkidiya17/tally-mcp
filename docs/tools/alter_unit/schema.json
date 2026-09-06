@@ -1,0 +1,7 @@
+{
+  "tool": "alter_unit",
+  "type": "object",
+  "version": "1.9.0",
+  "date": "2026-09-06",
+  "strict": true
+}
