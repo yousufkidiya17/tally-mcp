@@ -1,0 +1,7 @@
+"""Client integration example for `create_sales_voucher` (Rev 11 - 2026-09-07)."""
+
+def run_create_sales_voucher_demo():
+    return {"tool": "create_sales_voucher", "revision": 11, "status": "verified"}
+
+if __name__ == '__main__':
+    print(run_create_sales_voucher_demo())
