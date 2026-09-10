@@ -1,0 +1,13 @@
+<ENVELOPE>
+  <HEADER>
+    <TALLYREQUEST>Export Data</TALLYREQUEST>
+  </HEADER>
+  <BODY>
+    <DESC>
+      <STATICVARIABLES>
+        <SVTOOLNAME>get_day_book</SVTOOLNAME>
+        <SVREVISION>14</SVREVISION>
+      </STATICVARIABLES>
+    </DESC>
+  </BODY>
+</ENVELOPE>
