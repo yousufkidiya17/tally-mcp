@@ -1,0 +1,13 @@
+<ENVELOPE>
+  <HEADER>
+    <TALLYREQUEST>Export Data</TALLYREQUEST>
+  </HEADER>
+  <BODY>
+    <DESC>
+      <STATICVARIABLES>
+        <SVTOOLNAME>get_profit_loss</SVTOOLNAME>
+        <SVREVISION>15</SVREVISION>
+      </STATICVARIABLES>
+    </DESC>
+  </BODY>
+</ENVELOPE>
