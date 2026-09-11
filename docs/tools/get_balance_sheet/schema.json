@@ -1,0 +1,7 @@
+{
+  "tool": "get_balance_sheet",
+  "type": "object",
+  "version": "1.14.0",
+  "date": "2026-09-11",
+  "strict": true
+}
