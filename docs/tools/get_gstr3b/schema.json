@@ -1,0 +1,7 @@
+{
+  "tool": "get_gstr3b",
+  "type": "object",
+  "version": "1.15.0",
+  "date": "2026-09-12",
+  "strict": true
+}
