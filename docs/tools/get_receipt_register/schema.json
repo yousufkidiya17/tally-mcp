@@ -1,0 +1,7 @@
+{
+  "tool": "get_receipt_register",
+  "type": "object",
+  "version": "1.16.0",
+  "date": "2026-09-13",
+  "strict": true
+}
