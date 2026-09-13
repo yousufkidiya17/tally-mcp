@@ -1,0 +1,7 @@
+{
+  "tool": "get_bank_reconciliation",
+  "type": "object",
+  "version": "1.16.0",
+  "date": "2026-09-13",
+  "strict": true
+}
