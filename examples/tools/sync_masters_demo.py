@@ -1,7 +1,7 @@
-"""Client integration example for `sync_masters` (Rev 1 - 2026-08-28)."""
+"""Client integration example for `sync_masters` (Rev 18 - 2026-09-14)."""
 
 def run_sync_masters_demo():
-    return {"tool": "sync_masters", "revision": 1, "status": "verified"}
+    return {"tool": "sync_masters", "revision": 18, "status": "verified"}
 
 if __name__ == '__main__':
     print(run_sync_masters_demo())
