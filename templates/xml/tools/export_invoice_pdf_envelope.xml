@@ -1,0 +1,13 @@
+<ENVELOPE>
+  <HEADER>
+    <TALLYREQUEST>Export Data</TALLYREQUEST>
+  </HEADER>
+  <BODY>
+    <DESC>
+      <STATICVARIABLES>
+        <SVTOOLNAME>export_invoice_pdf</SVTOOLNAME>
+        <SVREVISION>18</SVREVISION>
+      </STATICVARIABLES>
+    </DESC>
+  </BODY>
+</ENVELOPE>
