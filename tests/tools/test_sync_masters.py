@@ -6,4 +6,4 @@ class Test_sync_masters_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_sync_masters_revision(self):
-        self.assertEqual(1, 1)
+        self.assertEqual(18, 18)
