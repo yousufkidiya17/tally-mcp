@@ -1,7 +1,7 @@
 {
   "tool": "create_group",
   "type": "object",
-  "version": "1.0.0",
-  "date": "2026-08-28",
+  "version": "1.18.0",
+  "date": "2026-09-15",
   "strict": true
 }
