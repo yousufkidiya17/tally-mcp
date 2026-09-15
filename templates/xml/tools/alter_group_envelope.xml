@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>alter_group</SVTOOLNAME>
-        <SVREVISION>2</SVREVISION>
+        <SVREVISION>19</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
