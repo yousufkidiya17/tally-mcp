@@ -6,4 +6,4 @@ class Test_delete_group_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_delete_group_revision(self):
-        self.assertEqual(2, 2)
+        self.assertEqual(19, 19)
