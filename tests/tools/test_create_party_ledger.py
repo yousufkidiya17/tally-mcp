@@ -6,4 +6,4 @@ class Test_create_party_ledger_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_party_ledger_revision(self):
-        self.assertEqual(2, 2)
+        self.assertEqual(20, 20)
