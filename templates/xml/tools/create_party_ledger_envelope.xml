@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_party_ledger</SVTOOLNAME>
-        <SVREVISION>2</SVREVISION>
+        <SVREVISION>20</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
