@@ -1,7 +1,7 @@
 {
   "tool": "create_bank_ledger",
   "type": "object",
-  "version": "1.2.0",
-  "date": "2026-08-30",
+  "version": "1.19.0",
+  "date": "2026-09-16",
   "strict": true
 }
