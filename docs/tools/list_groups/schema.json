@@ -1,7 +1,7 @@
 {
   "tool": "list_groups",
   "type": "object",
-  "version": "1.1.0",
-  "date": "2026-08-29",
+  "version": "1.19.0",
+  "date": "2026-09-16",
   "strict": true
 }
