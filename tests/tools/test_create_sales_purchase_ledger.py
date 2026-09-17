@@ -6,4 +6,4 @@ class Test_create_sales_purchase_ledger_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_sales_purchase_ledger_revision(self):
-        self.assertEqual(3, 3)
+        self.assertEqual(21, 21)
