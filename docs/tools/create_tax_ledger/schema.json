@@ -1,7 +1,7 @@
 {
   "tool": "create_tax_ledger",
   "type": "object",
-  "version": "1.3.0",
-  "date": "2026-08-31",
+  "version": "1.20.0",
+  "date": "2026-09-17",
   "strict": true
 }
