@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_sales_purchase_ledger</SVTOOLNAME>
-        <SVREVISION>3</SVREVISION>
+        <SVREVISION>21</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
