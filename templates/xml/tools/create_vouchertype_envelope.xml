@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_vouchertype</SVTOOLNAME>
-        <SVREVISION>5</SVREVISION>
+        <SVREVISION>23</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
