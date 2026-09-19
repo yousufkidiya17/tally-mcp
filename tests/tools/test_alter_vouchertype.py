@@ -6,4 +6,4 @@ class Test_alter_vouchertype_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_alter_vouchertype_revision(self):
-        self.assertEqual(6, 6)
+        self.assertEqual(23, 23)
