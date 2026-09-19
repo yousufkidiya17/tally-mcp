@@ -1,7 +1,7 @@
 {
   "tool": "create_vouchertype",
   "type": "object",
-  "version": "1.4.0",
-  "date": "2026-09-01",
+  "version": "1.22.0",
+  "date": "2026-09-19",
   "strict": true
 }
