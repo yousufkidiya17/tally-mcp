@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>delete_stockgroup</SVTOOLNAME>
-        <SVREVISION>6</SVREVISION>
+        <SVREVISION>24</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
