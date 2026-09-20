@@ -6,4 +6,4 @@ class Test_create_stockgroup_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_stockgroup_revision(self):
-        self.assertEqual(6, 6)
+        self.assertEqual(24, 24)
