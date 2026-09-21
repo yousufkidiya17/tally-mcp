@@ -1,7 +1,7 @@
 {
   "tool": "create_stockitem",
   "type": "object",
-  "version": "1.7.0",
-  "date": "2026-09-04",
+  "version": "1.24.0",
+  "date": "2026-09-21",
   "strict": true
 }
