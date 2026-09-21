@@ -1,7 +1,7 @@
 {
   "tool": "delete_stockcategory",
   "type": "object",
-  "version": "1.6.0",
-  "date": "2026-09-03",
+  "version": "1.24.0",
+  "date": "2026-09-21",
   "strict": true
 }
