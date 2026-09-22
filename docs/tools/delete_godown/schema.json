@@ -1,7 +1,7 @@
 {
   "tool": "delete_godown",
   "type": "object",
-  "version": "1.8.0",
-  "date": "2026-09-05",
+  "version": "1.25.0",
+  "date": "2026-09-22",
   "strict": true
 }
