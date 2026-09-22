@@ -6,4 +6,4 @@ class Test_create_godown_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_godown_revision(self):
-        self.assertEqual(9, 9)
+        self.assertEqual(26, 26)
