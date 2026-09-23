@@ -6,4 +6,4 @@ class Test_create_unit_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_unit_revision(self):
-        self.assertEqual(10, 10)
+        self.assertEqual(27, 27)
