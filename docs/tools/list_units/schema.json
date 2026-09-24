@@ -1,7 +1,7 @@
 {
   "tool": "list_units",
   "type": "object",
-  "version": "1.9.0",
-  "date": "2026-09-06",
+  "version": "1.27.0",
+  "date": "2026-09-24",
   "strict": true
 }
