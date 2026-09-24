@@ -1,7 +1,7 @@
 {
   "tool": "create_purchase_voucher",
   "type": "object",
-  "version": "1.10.0",
-  "date": "2026-09-07",
+  "version": "1.27.0",
+  "date": "2026-09-24",
   "strict": true
 }
