@@ -1,7 +1,7 @@
 {
   "tool": "create_receipt_voucher",
   "type": "object",
-  "version": "1.10.0",
-  "date": "2026-09-07",
+  "version": "1.28.0",
+  "date": "2026-09-25",
   "strict": true
 }
