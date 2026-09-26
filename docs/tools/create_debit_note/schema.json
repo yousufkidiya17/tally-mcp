@@ -1,7 +1,7 @@
 {
   "tool": "create_debit_note",
   "type": "object",
-  "version": "1.11.0",
-  "date": "2026-09-08",
+  "version": "1.29.0",
+  "date": "2026-09-26",
   "strict": true
 }
