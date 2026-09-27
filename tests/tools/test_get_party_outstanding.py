@@ -6,4 +6,4 @@ class Test_get_party_outstanding_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_party_outstanding_revision(self):
-        self.assertEqual(13, 13)
+        self.assertEqual(31, 31)
