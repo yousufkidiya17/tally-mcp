@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>get_party_outstanding</SVTOOLNAME>
-        <SVREVISION>13</SVREVISION>
+        <SVREVISION>31</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
