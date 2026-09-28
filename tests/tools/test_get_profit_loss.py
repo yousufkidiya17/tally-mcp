@@ -6,4 +6,4 @@ class Test_get_profit_loss_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_profit_loss_revision(self):
-        self.assertEqual(15, 15)
+        self.assertEqual(32, 32)
