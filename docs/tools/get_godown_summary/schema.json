@@ -1,7 +1,7 @@
 {
   "tool": "get_godown_summary",
   "type": "object",
-  "version": "1.14.0",
-  "date": "2026-09-11",
+  "version": "1.32.0",
+  "date": "2026-09-29",
   "strict": true
 }
