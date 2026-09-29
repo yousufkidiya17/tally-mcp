@@ -6,4 +6,4 @@ class Test_get_gstr1_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_gstr1_revision(self):
-        self.assertEqual(16, 16)
+        self.assertEqual(33, 33)
