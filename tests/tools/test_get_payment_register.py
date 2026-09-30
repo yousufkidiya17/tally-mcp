@@ -6,4 +6,4 @@ class Test_get_payment_register_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_payment_register_revision(self):
-        self.assertEqual(17, 17)
+        self.assertEqual(34, 34)
