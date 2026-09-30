@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>get_payment_register</SVTOOLNAME>
-        <SVREVISION>17</SVREVISION>
+        <SVREVISION>34</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
