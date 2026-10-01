@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>get_bank_reconciliation</SVTOOLNAME>
-        <SVREVISION>17</SVREVISION>
+        <SVREVISION>35</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
