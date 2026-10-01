@@ -6,4 +6,4 @@ class Test_get_receipt_register_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_receipt_register_revision(self):
-        self.assertEqual(17, 17)
+        self.assertEqual(35, 35)
