@@ -1,7 +1,7 @@
 {
   "tool": "get_gstr9",
   "type": "object",
-  "version": "1.17.0",
-  "date": "2026-09-14",
+  "version": "1.34.0",
+  "date": "2026-10-01",
   "strict": true
 }
