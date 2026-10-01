@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>export_invoice_pdf</SVTOOLNAME>
-        <SVREVISION>18</SVREVISION>
+        <SVREVISION>35</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
