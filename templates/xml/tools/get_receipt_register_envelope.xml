@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>get_receipt_register</SVTOOLNAME>
-        <SVREVISION>17</SVREVISION>
+        <SVREVISION>35</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
