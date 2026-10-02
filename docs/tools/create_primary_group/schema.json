@@ -1,7 +1,7 @@
 {
   "tool": "create_primary_group",
   "type": "object",
-  "version": "1.18.0",
-  "date": "2026-09-15",
+  "version": "1.35.0",
+  "date": "2026-10-02",
   "strict": true
 }
