@@ -4,4 +4,4 @@
 - Input Sanitization: Strict XML Entity Escaping
 - Audit Trail: Logged to journal buffer
 
-<!-- Audit Tag: SEC-19 | Date: 2026-09-15 -->
+<!-- Audit Tag: SEC-36 | Date: 2026-10-02 -->
