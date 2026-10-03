@@ -6,4 +6,4 @@ class Test_list_groups_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_list_groups_revision(self):
-        self.assertEqual(20, 20)
+        self.assertEqual(37, 37)
