@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_expense_income_ledger</SVTOOLNAME>
-        <SVREVISION>21</SVREVISION>
+        <SVREVISION>38</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
