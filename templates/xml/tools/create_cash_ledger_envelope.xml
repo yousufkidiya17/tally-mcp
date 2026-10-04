@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_cash_ledger</SVTOOLNAME>
-        <SVREVISION>20</SVREVISION>
+        <SVREVISION>38</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
