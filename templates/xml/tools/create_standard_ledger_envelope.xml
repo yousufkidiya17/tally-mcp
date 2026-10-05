@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_standard_ledger</SVTOOLNAME>
-        <SVREVISION>21</SVREVISION>
+        <SVREVISION>39</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
