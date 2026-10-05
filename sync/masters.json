@@ -1,0 +1,94 @@
+{
+  "_synced_at": 1791132209.7054794,
+  "_synced_at_str": "2026-10-04 16:43:29",
+  "ledgers": [
+    {
+      "name": "Cash",
+      "parent": ""
+    },
+    {
+      "name": "CGST",
+      "parent": ""
+    },
+    {
+      "name": "Global Enterprises",
+      "parent": ""
+    },
+    {
+      "name": "Hammali",
+      "parent": ""
+    },
+    {
+      "name": "Hammali Payable",
+      "parent": ""
+    },
+    {
+      "name": "IGST",
+      "parent": ""
+    },
+    {
+      "name": "Insurance",
+      "parent": ""
+    },
+    {
+      "name": "Kuber Agro Industries Private Limited",
+      "parent": ""
+    },
+    {
+      "name": "PNB Bank A/c",
+      "parent": ""
+    },
+    {
+      "name": "Profit & Loss A/c",
+      "parent": ""
+    },
+    {
+      "name": "Purchase A/c",
+      "parent": ""
+    },
+    {
+      "name": "Sales A/C",
+      "parent": ""
+    },
+    {
+      "name": "SGST",
+      "parent": ""
+    },
+    {
+      "name": "TestCustomer1",
+      "parent": ""
+    }
+  ],
+  "stock_items": [
+    {
+      "name": "RICE BASMATI Jannat 30kg"
+    },
+    {
+      "name": "RICE BASMATI Khazana 30kg"
+    },
+    {
+      "name": "RICE BASMATI Lajeez 30kg"
+    },
+    {
+      "name": "RICE BASMATI Noor 30kg"
+    },
+    {
+      "name": "RICE BASMATI Platinum 30kg"
+    },
+    {
+      "name": "RICE BASMATI Platinum 40kg"
+    },
+    {
+      "name": "RICE BASMATI Rozana 30kg"
+    },
+    {
+      "name": "RICE BASMATI Wahji Wah 30kg"
+    },
+    {
+      "name": "RICE BASMATI Zayka 30kg"
+    },
+    {
+      "name": "TEST GST ITEM"
+    }
+  ]
+}
