@@ -1,7 +1,7 @@
 {
   "tool": "alter_ledger",
   "type": "object",
-  "version": "1.21.0",
-  "date": "2026-09-18",
+  "version": "1.38.0",
+  "date": "2026-10-05",
   "strict": true
 }
