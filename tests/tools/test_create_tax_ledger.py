@@ -6,4 +6,4 @@ class Test_create_tax_ledger_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_tax_ledger_revision(self):
-        self.assertEqual(21, 21)
+        self.assertEqual(39, 39)
