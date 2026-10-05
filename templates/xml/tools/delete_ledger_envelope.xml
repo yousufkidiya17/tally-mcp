@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>delete_ledger</SVTOOLNAME>
-        <SVREVISION>22</SVREVISION>
+        <SVREVISION>39</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
