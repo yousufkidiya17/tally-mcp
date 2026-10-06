@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>alter_party_ledger</SVTOOLNAME>
-        <SVREVISION>22</SVREVISION>
+        <SVREVISION>40</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
