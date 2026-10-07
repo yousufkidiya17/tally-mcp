@@ -1,7 +1,7 @@
 {
   "tool": "alter_vouchertype",
   "type": "object",
-  "version": "1.22.0",
-  "date": "2026-09-19",
+  "version": "1.40.0",
+  "date": "2026-10-07",
   "strict": true
 }
