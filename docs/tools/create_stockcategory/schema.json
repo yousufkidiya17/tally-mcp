@@ -1,7 +1,7 @@
 {
   "tool": "create_stockcategory",
   "type": "object",
-  "version": "1.23.0",
-  "date": "2026-09-20",
+  "version": "1.41.0",
+  "date": "2026-10-08",
   "strict": true
 }
