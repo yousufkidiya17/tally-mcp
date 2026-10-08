@@ -6,4 +6,4 @@ class Test_create_stockcategory_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_stockcategory_revision(self):
-        self.assertEqual(24, 24)
+        self.assertEqual(42, 42)
