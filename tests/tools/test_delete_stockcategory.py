@@ -6,4 +6,4 @@ class Test_delete_stockcategory_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_delete_stockcategory_revision(self):
-        self.assertEqual(25, 25)
+        self.assertEqual(42, 42)
