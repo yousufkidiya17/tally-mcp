@@ -1,7 +1,7 @@
 {
   "tool": "alter_stockitem",
   "type": "object",
-  "version": "1.24.0",
-  "date": "2026-09-21",
+  "version": "1.42.0",
+  "date": "2026-10-09",
   "strict": true
 }
