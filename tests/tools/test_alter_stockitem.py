@@ -6,4 +6,4 @@ class Test_alter_stockitem_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_alter_stockitem_revision(self):
-        self.assertEqual(25, 25)
+        self.assertEqual(43, 43)
