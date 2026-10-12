@@ -1,7 +1,7 @@
 {
   "tool": "create_sales_voucher",
   "type": "object",
-  "version": "1.27.0",
-  "date": "2026-09-24",
+  "version": "1.45.0",
+  "date": "2026-10-12",
   "strict": true
 }
