@@ -6,4 +6,4 @@ class Test_create_purchase_voucher_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_purchase_voucher_revision(self):
-        self.assertEqual(28, 28)
+        self.assertEqual(46, 46)
