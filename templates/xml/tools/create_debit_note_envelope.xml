@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_debit_note</SVTOOLNAME>
-        <SVREVISION>30</SVREVISION>
+        <SVREVISION>47</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
