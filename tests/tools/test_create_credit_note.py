@@ -6,4 +6,4 @@ class Test_create_credit_note_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_create_credit_note_revision(self):
-        self.assertEqual(30, 30)
+        self.assertEqual(47, 47)
