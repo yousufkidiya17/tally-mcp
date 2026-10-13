@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>create_journal_voucher</SVTOOLNAME>
-        <SVREVISION>29</SVREVISION>
+        <SVREVISION>47</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
