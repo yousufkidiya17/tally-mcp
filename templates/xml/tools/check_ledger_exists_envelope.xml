@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>check_ledger_exists</SVTOOLNAME>
-        <SVREVISION>31</SVREVISION>
+        <SVREVISION>48</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
