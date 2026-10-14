@@ -1,7 +1,7 @@
-"""Client integration example for `get_party_outstanding` (Rev 31 - 2026-09-27)."""
+"""Client integration example for `get_party_outstanding` (Rev 48 - 2026-10-14)."""
 
 def run_get_party_outstanding_demo():
-    return {"tool": "get_party_outstanding", "revision": 31, "status": "verified"}
+    return {"tool": "get_party_outstanding", "revision": 48, "status": "verified"}
 
 if __name__ == '__main__':
     print(run_get_party_outstanding_demo())
