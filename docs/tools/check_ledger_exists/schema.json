@@ -1,7 +1,7 @@
 {
   "tool": "check_ledger_exists",
   "type": "object",
-  "version": "1.30.0",
-  "date": "2026-09-27",
+  "version": "1.47.0",
+  "date": "2026-10-14",
   "strict": true
 }
