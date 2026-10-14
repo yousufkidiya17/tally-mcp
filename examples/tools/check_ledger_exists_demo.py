@@ -1,7 +1,7 @@
-"""Client integration example for `check_ledger_exists` (Rev 31 - 2026-09-27)."""
+"""Client integration example for `check_ledger_exists` (Rev 48 - 2026-10-14)."""
 
 def run_check_ledger_exists_demo():
-    return {"tool": "check_ledger_exists", "revision": 31, "status": "verified"}
+    return {"tool": "check_ledger_exists", "revision": 48, "status": "verified"}
 
 if __name__ == '__main__':
     print(run_check_ledger_exists_demo())
