@@ -6,4 +6,4 @@ class Test_get_trial_balance_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_trial_balance_revision(self):
-        self.assertEqual(32, 32)
+        self.assertEqual(49, 49)
