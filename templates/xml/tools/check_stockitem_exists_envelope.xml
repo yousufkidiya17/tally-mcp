@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>check_stockitem_exists</SVTOOLNAME>
-        <SVREVISION>31</SVREVISION>
+        <SVREVISION>49</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
