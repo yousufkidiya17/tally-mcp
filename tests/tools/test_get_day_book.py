@@ -6,4 +6,4 @@ class Test_get_day_book_Contract(unittest.TestCase):
         self.assertTrue(len(name) > 0)
 
     def test_get_day_book_revision(self):
-        self.assertEqual(31, 31)
+        self.assertEqual(49, 49)
