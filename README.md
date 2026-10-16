@@ -1,4 +1,4 @@
-# Tally Agent 🤖
+# Tally Agent 
 
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![MCP](https://img.shields.io/badge/MCP-compatible-brightgreen)
