@@ -6,7 +6,7 @@
     <DESC>
       <STATICVARIABLES>
         <SVTOOLNAME>get_balance_sheet</SVTOOLNAME>
-        <SVREVISION>32</SVREVISION>
+        <SVREVISION>50</SVREVISION>
       </STATICVARIABLES>
     </DESC>
   </BODY>
