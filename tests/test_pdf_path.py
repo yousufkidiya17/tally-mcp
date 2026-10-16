@@ -62,7 +62,10 @@ class TestPdfPath(unittest.TestCase):
             outside = os.path.join(tmp, "outside")
             os.makedirs(outside)
             linkdir = os.path.join(tmp, "linkdir")
-            os.symlink(outside, linkdir)
+            try:
+                os.symlink(outside, linkdir)
+            except OSError as e:
+                self.skipTest(f"Symlinks not permitted in this environment: {e}")
             orig = server._INVOICE_DIR
             server._INVOICE_DIR = linkdir
             try:

@@ -40,7 +40,7 @@ from tally_client import (
 mcp = FastMCP(
     "tally-agent",
     instructions=(
-        "Tally Agent -- Professional Tally Prime MCP Server (69 tools). "
+        "Tally Agent -- Professional Tally Prime MCP Server (70 tools). "
         "Complete accounting: Masters, Transactions, Reports via Tally's XML API (port 9999). "
         "Every tool was live-tested against a real Tally company.\n\n"
         "MANDATORY WORKFLOW:\n"

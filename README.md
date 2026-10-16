@@ -92,7 +92,7 @@ fresh exports, and any successful mutation invalidates the company's cache.
 
 ---
 
-## Tool Categories (69 Tools)
+## Tool Categories (70 Tools)
 
 ### 🔄 Sync (4)
 | Tool | Purpose |
@@ -111,10 +111,11 @@ fresh exports, and any successful mutation invalidates the company's cache.
 | `delete_group` | Delete group |
 | `list_groups` | List all groups |
 
-### 📒 Ledgers (10)
+### 📒 Ledgers (11)
 | Tool | Purpose |
 |------|---------|
 | `create_party_ledger` | Customer/supplier (Sundry Debtors/Creditors) |
+| `alter_party_ledger` | Modify customer/supplier details |
 | `create_cash_ledger` | Cash account |
 | `create_bank_ledger` | Bank account with IFSC, A/c no |
 | `create_sales_purchase_ledger` | Sales/Purchase account |
@@ -261,7 +262,7 @@ get_gstr1(date_from="20240401", date_to="20240430")
 ### Files
 ```
 tally-mcp/
-├── server.py          # MCP server (69 tools)
+├── server.py          # MCP server (70 tools)
 ├── tally_client.py    # Tally XML client
 ├── requirements.txt   # Dependencies
 ├── README.md          # This file

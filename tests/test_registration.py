@@ -14,14 +14,14 @@ class TestRegistration(unittest.TestCase):
         import tally_client  # noqa
         import tally_pdf  # noqa
 
-    def test_69_tools_registered(self):
+    def test_70_tools_registered(self):
         import server
         async def _list():
             return await server.mcp.list_tools()
         tools = asyncio.run(_list())
-        self.assertEqual(len(tools), 69)
+        self.assertEqual(len(tools), 70)
         names = [t.name for t in tools]
-        self.assertEqual(len(set(names)), 69, "duplicate tool names!")
+        self.assertEqual(len(set(names)), 70, "duplicate tool names!")
 
     def test_no_tool_removed_or_renamed(self):
         import server
@@ -37,7 +37,7 @@ class TestRegistration(unittest.TestCase):
             "create_party_ledger", "create_bank_ledger", "create_cash_ledger",
             "create_sales_purchase_ledger", "create_expense_income_ledger",
             "create_tax_ledger", "create_standard_ledger",
-            "delete_ledger", "alter_ledger", "list_ledgers",
+            "delete_ledger", "alter_ledger", "alter_party_ledger", "list_ledgers",
             "create_vouchertype", "delete_vouchertype", "alter_vouchertype",
             "list_vouchertypes",
             "create_stockgroup", "delete_stockgroup", "alter_stockgroup",
