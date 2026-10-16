@@ -1,8 +1,14 @@
 # Tally Agent 🤖
 
-**Professional MCP Server for Tally Prime**
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![MCP](https://img.shields.io/badge/MCP-compatible-brightgreen)
+![Tools](https://img.shields.io/badge/tools-70-orange)
+![Tally Prime](https://img.shields.io/badge/Tally-Prime-red)
+![License](https://img.shields.io/badge/license-MIT-yellow)
 
-Complete Tally Prime integration with **69 verified tools** — Masters, Transactions, and Reports, all working via Tally's XML API.
+**Professional MCP Server for Tally Prime — let any AI agent do accounting.**
+
+Complete Tally Prime integration with **70 verified tools** — Masters, Transactions, Inventory, GST Reports, all working via Tally's XML API. No Tally UI needed.
 
 ---
 
